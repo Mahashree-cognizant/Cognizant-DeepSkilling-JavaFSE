@@ -5,40 +5,45 @@ Structured week-wise with Java-based implementations of Design Patterns, PL/SQL,
 
 ---
 
-## 👩‍💻 Developer Info
+## 👩‍💻 Developer Information
 
 **Full Name:** Mahashree Prabhakar  
 **University:** REVA University – B.Tech, Electronics and Computer Engineering  
 **Official Communication Email:** mahashreeprabhakar@gmail.com  
-**GitHub Email (Used Only for Repo Submissions):** mahashree.cognizant@gmail.com  
+**GitHub Email (Repo Purposes Only):** mahashree.cognizant@gmail.com  
 **GitHub Username:** [Mahashree-cognizant](https://github.com/Mahashree-cognizant)
 
-> ⚠️ _Note: This GitHub account is used **only** for deep skilling project submissions. My official communication email remains **mahashreeprabhakar@gmail.com**._
+> ⚠️ *Note: This GitHub account is used **only** for deep skilling submissions. My official communication email for Cognizant remains* **mahashreeprabhakar@gmail.com**
 
 ---
 
 ## 📁 Weekly Submissions
 
-| Week     | Module Description            |
-|----------|-------------------------------|
-| Week 1   | Design Patterns & DSA         |
-| Week 2   | PL/SQL Programming            |
-| Week 3   | JUnit + Logging               |
-| Week 4   | Spring Core + Maven           |
-| Week 5   | Spring Boot + JPA             |
-| Week 6   | REST APIs + Swagger           |
-| Week 7   | Microservices + API Gateway   |
+| Folder Name                          | Module Description            |
+|--------------------------------------|-------------------------------|
+| Week1_DesignPatterns_DSA             | Design Patterns & DSA         |
+| Week2_PLSQL                          | PL/SQL Programming            |
+| Week3_UnitTest_Logging                       | JUnit & Logging               |
+| Week4_SpringCore                     | Spring Core + Maven           |
+| Week5_JPA                            | Spring Boot + JPA             |
+| Week6_REST                           | REST APIs + Swagger           |
+| Week7_Microservices                  | Microservices + API Gateway   |
 
 ---
-
-## 🔗 Repository Structure
 
 
 ---
 
 ## ✅ Submission Info
 
-This repository follows the exact Cognizant DN 4.0 folder structure and submission standards.  
-All work is original and completed as part of the official deep skilling program.
+This repository strictly follows the Cognizant DN 4.0 folder and submission structure.
 
-> 🔐 GitHub repo is public and accessible for Cognizant SME review.
+All source code and modules have been developed independently by **Mahashree Prabhakar** as part of the Deep Skilling training program.
+
+
+
+---
+
+>  If you are a Cognizant SME or reviewer: feel free to navigate week-wise folders for code and module-specific implementations. This repo is public and ready for review.
+
+
